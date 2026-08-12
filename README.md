@@ -66,6 +66,7 @@ Download the `.pbix` file and open it using Power BI Desktop to explore the dash
 ## Related Machine Learning Project
 
 This Power BI dashboard complements my Used Car Price Prediction machine learning project, where vehicle characteristics are used to predict used-car asking prices using Linear Regression and Random Forest Regression.
+👉 [View the Used Car Price Prediction Machine Learning Project](https://github.com/lindokuhl146-ctrl/Used-Car-Price-Prediction)
 
 ## Author
 
